@@ -1,0 +1,474 @@
+*{
+	margin:  0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+header{
+
+	background-image:linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url(../25.jpeg);
+	height: 395vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul{
+	float: left;
+	list-style-type: none;
+	margin-top: 25px;
+	margin-left: 12px;
+
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid ;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+
+.title{
+	position: absolute;
+	top: 12%;
+	left: 7%;
+	transform: translate(-10%,-10%);
+}
+
+.title h1{
+	color: #fff;
+	font-size: 42px;
+}
+
+.button{
+	position: absolute;
+	top: 90%;
+	left: 4%;
+	transform: translate(-10%,-10%);
+}
+
+.btn{
+	border: #000;
+	padding: 10px 30px;
+	color: 	#FF4500;
+	font-size: 20px;
+	background-color: #000000;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+
+.btn:hover{
+	background-color: #7C1414;
+	color: #fff;
+	font-size: 20px;
+}
+
+.buttom{
+	position: absolute;
+	top: 90%;
+	left: 20%;
+	transform: translate(-10%,-10%);
+}
+
+.btm{
+	border: #000;
+	padding: 10px 30px;
+	color: 	#FF4500;
+	font-size: 20px;
+	background-color: #000000;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+
+.btm:hover{
+	background-color: #7C1414;
+	color: #fff;
+	font-size: 20px;
+}
+
+
+
+
+
+.content1{
+	background-color: none;
+	border: none;
+  	width: 960px;
+  	height: 2500px;
+   	padding: 20px;
+  	margin: 20px;
+	position: absolute;
+	top: 53%;
+	left: 8%;
+	transform: translate(-10%,-10%);
+	
+
+
+}
+
+.content1 h4{
+	color: #fff;
+	font-size: 25px;
+	font-family: Segoe UI Symbol;
+
+
+}
+
+.content1 h5{
+	color: #fff;
+	font-size: 25px;
+	font-family: Agency FB;
+	font-weight: normal;
+
+
+
+}
+
+.content1 h6{
+	color: #fff;
+	font-size: 25px;
+	font-family: Segoe UI Symbol;
+
+}
+
+.content1 h7{
+	color: #fff;
+	font-size: 25px;
+	font-family: Agency FB;
+	font-weight: normal;
+	
+
+}
+
+.content1 h8{
+	color: #fff;
+	font-size: 25px;
+	font-family: Segoe UI Symbol;
+
+
+}
+
+.content1 h9{
+	color: #fff;
+	font-size: 25px;
+	font-family: Agency FB;
+	
+
+}
+
+.content1 h10{
+	color: #fff;
+	font-size: 25px;
+	font-family: Segoe UI Symbol;
+	
+
+}
+
+.content1 h11{
+	color: #fff;
+	font-size: 25px;
+	font-family: Agency FB;
+	
+
+}
+
+.content1 h12{
+	color: #fff;
+	font-size: 25px;
+	font-family: Segoe UI Symbol;
+	
+
+}
+
+.content1 h13{
+	color: #fff;
+	font-size: 25px;
+	font-family: Agency FB;
+	
+
+}
+
+.content1 h14{
+	color: #fff;
+	font-size: 25px;
+	font-family: Segoe UI Symbol;
+	
+
+}
+
+.content1 h15{
+	color: #fff;
+	font-size: 25px;
+	font-family: Agency FB;
+	
+
+}
+
+.content1 h16{
+	color: #fff;
+	font-size: 25px;
+	font-family: Segoe UI Symbol;
+	
+
+}
+
+.content1 h17{
+	color: #fff;
+	font-size: 25px;
+	font-family: Agency FB;
+	
+
+}
+
+.content1 h18{
+	color: #fff;
+	font-size: 25px;
+	font-family: Segoe UI Symbol;
+	
+
+}
+
+.content1 h19{
+	color: #fff;
+	font-size: 25px;
+	font-family: Agency FB;
+	
+
+}
+
+
+.image4{
+	background-color: none;
+  	width: 80px;
+  	height: 80px;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 03%;
+	left: 90%;
+	transform: translate(-10%,-10%);
+
+
+
+}
+
+.image4 h50{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image4:hover{
+	background-color: #fff;
+	color: #fff;
+	width: 100px;
+	height: 100px;
+	font-size: 20px;
+	top: 05;
+	left: 80;
+
+}
+
+
+.image1{
+	background-color: none ;
+  	width:80px;
+  	height: 80px;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 10%;
+	left: 25%;
+	transform: translate(-10%,-10%);
+
+
+}
+
+.image1 h7{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image2{
+	background-color: none;
+  	width: 185px;
+  	height: 185x;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 37%;
+	left: 80%;
+	transform: translate(-10%,-10%);
+
+
+}
+
+.image2 h8{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image3{
+	background-color: none;
+  	width: 185px;
+  	height: 185x;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 92%;
+	left: 80%;
+	transform: translate(-10%,-10%);
+
+
+
+}
+
+.image3 h9{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image5{
+	background-color: none;
+  	width: 185px;
+  	height: 185x;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 153%;
+	left: 80%;
+	transform: translate(-10%,-10%);
+
+
+
+}
+
+.image5 h99{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image6{
+	background-color: none;
+  	width: 185px;
+  	height: 185x;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 200%;
+	left: 80%;
+	transform: translate(-10%,-10%);
+
+
+
+}
+
+.image6 h99{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image7{
+	background-color: none;
+  	width: 185px;
+  	height: 185x;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 247%;
+	left: 80%;
+	transform: translate(-10%,-10%);
+
+
+
+}
+
+.image7 h99{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image8{
+	background-color: none;
+  	width: 185px;
+  	height: 185x;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 287%;
+	left: 80%;
+	transform: translate(-10%,-10%);
+
+
+
+}
+
+.image8 h99{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image9{
+	background-color: none;
+  	width: 185px;
+  	height: 185x;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 325%;
+	left: 80%;
+	transform: translate(-10%,-10%);
+
+
+
+}
+
+.image9 h99{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.image10{
+	background-color: none;
+  	width: 185px;
+  	height: 185x;
+   	padding: 05px;
+  	margin: 02px;
+	position: absolute;
+	top: 365%;
+	left: 80%;
+	transform: translate(-10%,-10%);
+
+
+
+}
+
+.image10 h99{
+	color: #000000;
+	font-size: 20px;
+
+}
+
+
